@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestNullObjectPattern/1.0.0": {
+        "runtime": {
+          "TestNullObjectPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestNullObjectPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

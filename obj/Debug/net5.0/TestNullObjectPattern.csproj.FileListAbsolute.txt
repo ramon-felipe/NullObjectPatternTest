@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\bin\Debug\net5.0\TestNullObjectPattern.exe
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\bin\Debug\net5.0\TestNullObjectPattern.deps.json
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\bin\Debug\net5.0\TestNullObjectPattern.runtimeconfig.json
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\bin\Debug\net5.0\TestNullObjectPattern.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\bin\Debug\net5.0\TestNullObjectPattern.dll
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\bin\Debug\net5.0\ref\TestNullObjectPattern.dll
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\bin\Debug\net5.0\TestNullObjectPattern.pdb
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\TestNullObjectPattern.csprojAssemblyReference.cache
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\TestNullObjectPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\TestNullObjectPattern.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\TestNullObjectPattern.AssemblyInfo.cs
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\TestNullObjectPattern.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\TestNullObjectPattern.dll
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\ref\TestNullObjectPattern.dll
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\TestNullObjectPattern.pdb
+C:\Users\ramon\Documents\Desenvolvimentos\C#\Testes\Other\TestNullObjectPattern\obj\Debug\net5.0\TestNullObjectPattern.genruntimeconfig.cache
